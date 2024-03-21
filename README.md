@@ -1,0 +1,1 @@
+# BY-USING-SLICING-to-get-only-odd-position-values-1
