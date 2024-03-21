@@ -1,0 +1,4 @@
+s=input()
+x=s[::2]
+y=s[::2]
+print(x+y)
